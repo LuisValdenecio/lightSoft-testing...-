@@ -10,7 +10,7 @@ before_script:
   - npm install -g @angular/cli
 script:
   - npm run test-headless
-  - ng build --prod --base-href https://github.com/LuisValdenecio/lightSoft-testing...-/
+  - ng build --prod --base-href https://LuisValdenecio.github.io/lightSoft-testing...-/
 deploy:
   provider: pages
   skip_cleanup: true

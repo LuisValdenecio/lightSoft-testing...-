@@ -51,9 +51,7 @@
                   "maximumWarning": "2mb",
                   "maximumError": "5mb"
                 }
-              ],
-              "baseHref": "/",
-              "deployUrl": "https://github.com/LuisValdenecio/lightSoft-testing...-/"
+              ]
             }
           }
         },
